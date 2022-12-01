@@ -10,7 +10,11 @@
 
 # MARCO TEORICO 
 El presente circuito contiene varios componentes no complejos los cuales le dan el funcionamiento correcto para poder realizar la medición del nivel de agua.
-En este caso el primer componente a mencionar es el transistor NPN 2N3904 cuenta con 3 pines que son base, colector y emisor, donde el emisor se encarga de emitir o inyectar electrones, la base permite transferir o pasar los electrones y el colector se encarga de colectar electrones. Este transistor es de propósito general y está diseñado para aplicaciones lineales y de conmutación, es utilizado comúnmente como amplificador de media potencia. Funciona en tres regiones semiconductoras, las cuales son: corte, saturación y amplificación. Se puede aplicar una pequeña corriente en la región base, para controlar una corriente mayor que fluirá entre las regiones (emisor y colector). Este transistor es de bajo costo, practico para conectarlo a un protoboard. Con este componente logramos recibir, transferir y amplificar la corriente negativa que pasar por nuestro circuito.
+
+En este caso el primer componente a mencionar es el transistor NPN 2N3904 cuenta con 3 pines que son base, colector y emisor, donde el emisor se encarga de emitir o inyectar electrones, la base permite transferir o pasar los electrones y el colector se encarga de colectar electrones. 
+
+Este transistor es de propósito general y está diseñado para aplicaciones lineales y de conmutación, es utilizado comúnmente como amplificador de media potencia. Funciona en tres regiones semiconductoras, las cuales son: corte, saturación y amplificación. Se puede aplicar una pequeña corriente en la región base, para controlar una corriente mayor que fluirá entre las regiones (emisor y colector). Este transistor es de bajo costo, practico para conectarlo a un protoboard. Con este componente logramos recibir, transferir y amplificar la corriente negativa que pasar por nuestro circuito.
+
 Las resistencias en este caso son parte fundamental del circuito eléctrico ya que son las encargadas de actuar como obstáculo cuando pasa la corriente eléctrica por el circuito de esta manera evitando así la sobrecarga en este.
 # MATERIALES
 * •	Placa de pruebas (Protoboard)
