@@ -20,7 +20,8 @@ Las resistencias en este caso son parte fundamental del circuito eléctrico ya q
 •	3 luces led 
 •	Cables macho macho o jumpers
 •	Pila de 9 V
-#PROCEDIMIENTO
+# PROCEDIMIENTO 
+
 •	Conectamos a la placa de pruebas los 3 transistores NPN 2N3904 con la parte plana del transistor observando hacia nosotros
 •	Realizamos conexiones con los cables macho macho o jumpers en la pata emisora del transistor llevándolos hacia la terminal negativa por donde pasara la corriente y lo conectamos 
 •	Conectamos nuestras resistencias de 510 Ω en la pata colectora del transistor pasando el canal central de la placa de pruebas y la conectamos 
