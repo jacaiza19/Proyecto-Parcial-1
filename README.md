@@ -21,18 +21,21 @@ Las resistencias en este caso son parte fundamental del circuito eléctrico ya q
 •	Cables macho macho o jumpers
 •	Pila de 9 V
 # PROCEDIMIENTO 
+* •	Conectamos a la placa de pruebas los 3 transistores NPN 2N3904 con la parte plana del transistor observando hacia nosotros
+*  •	Realizamos conexiones con los cables macho macho o jumpers en la pata emisora del transistor llevándolos hacia la terminal negativa por donde pasara la corriente y lo conectamos 
+*  •	Conectamos nuestras resistencias de 510 Ω en la pata colectora del transistor pasando el canal central de la placa de pruebas y la conectamos 
+*  •	Procedemos a conectar las luces led con el ánodo conectado en la terminal positiva de corriente y el cátodo haciendo conexión en la parte del resistor que estaba suelta, estas resistencias cumplen la función de regular la corriente que pasa hacia la luz led para que esta no se queme 
+*  •	La resistencia de 1 kΩ la conectamos desde la terminal positiva por donde pasa la corriente hacia el nodo por donde circula la corriente para las resistencias de 510 Ω
+*  •	Realizamos la conexión de jumpers con el primero conectándolo en donde quedo la resistencia de 1 kΩ, el segundo jumper lo conectamos en la pata base del primer transistor, el tercer jumper de igual manera conectándolo en la pata base del segundo transistor y el ultimo jumper conectándolo igual en la pata base del ultimo transistor 
+*  •	Conectamos nuestra fuente de voltaje al circuito en este caso la batería de 9 V
+*  •	Procedemos a verificar si las conexiones están realizadas de una manera correcta introduciendo los jumpers sueltos a un vaso con agua y observar si las 3 luces led se encienden correctamente 
+*  •	Por último, arreglamos nuestros jumpers a la altura deseada y el circuito armado estará correctamente realizado verificando que a medida que el agua los va tocando las luces led se van encendiendo
 
-•	Conectamos a la placa de pruebas los 3 transistores NPN 2N3904 con la parte plana del transistor observando hacia nosotros
-•	Realizamos conexiones con los cables macho macho o jumpers en la pata emisora del transistor llevándolos hacia la terminal negativa por donde pasara la corriente y lo conectamos 
-•	Conectamos nuestras resistencias de 510 Ω en la pata colectora del transistor pasando el canal central de la placa de pruebas y la conectamos 
-•	Procedemos a conectar las luces led con el ánodo conectado en la terminal positiva de corriente y el cátodo haciendo conexión en la parte del resistor que estaba suelta, estas resistencias cumplen la función de regular la corriente que pasa hacia la luz led para que esta no se queme 
-•	La resistencia de 1 kΩ la conectamos desde la terminal positiva por donde pasa la corriente hacia el nodo por donde circula la corriente para las resistencias de 510 Ω
-•	Realizamos la conexión de jumpers con el primero conectándolo en donde quedo la resistencia de 1 kΩ, el segundo jumper lo conectamos en la pata base del primer transistor, el tercer jumper de igual manera conectándolo en la pata base del segundo transistor y el ultimo jumper conectándolo igual en la pata base del ultimo transistor 
-•	Conectamos nuestra fuente de voltaje al circuito en este caso la batería de 9 V
-•	Procedemos a verificar si las conexiones están realizadas de una manera correcta introduciendo los jumpers sueltos a un vaso con agua y observar si las 3 luces led se encienden correctamente 
-•	Por último, arreglamos nuestros jumpers a la altura deseada y el circuito armado estará correctamente realizado verificando que a medida que el agua los va tocando las luces led se van encendiendo
 # CIRCUITO ARMADO
-# VIDEO DE YOTUBE 
+![WhatsApp Image 2022-11-30 at 11 48 40 PM](https://user-images.githubusercontent.com/116832991/205121868-4188f7f6-8d5a-407f-a74f-bcd56cf89c14.jpeg)
+![WhatsApp Image 2022-11-30 at 11 48 40 PM (2)](https://user-images.githubusercontent.com/116832991/205122127-011ee8f7-550a-4de7-bf35-abdd7304804e.jpeg)
+
+#VIDEO DE YOTUBE
 # CONCLUISIONES 
 •	Como se ah podido observar en el circuito el transistor se encarga de recibir, transferir y emitir corriente negativa hacia la luz led 
 •	De este modo se puede entender que la resistencia de 1 kΩ se encarga de proteger el circuito de la corriente positiva para que este no se sobrecargue y mediante el uso del jumper cargamos el vaso de agua con corriente positiva 
