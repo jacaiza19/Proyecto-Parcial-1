@@ -26,30 +26,22 @@ Las resistencias en este caso son parte fundamental del circuito eléctrico ya q
 * •	Pila de 9 V
 # PROCEDIMIENTO 
 * •	Conectamos a la placa de pruebas los 3 transistores NPN 2N3904 con la parte plana del transistor observando hacia nosotros
-* ![image](https://user-images.githubusercontent.com/116832991/205127527-14de8984-6d5d-4af0-9893-bc63b9a67a33.png)
-
+* ![image](https://user-images.githubusercontent.com/116832991/205128270-d6b2e976-0983-41d7-b61e-bd830f63e627.png)
 * •	Realizamos conexiones con los cables macho macho o jumpers en la pata emisora del transistor llevándolos hacia la terminal negativa por donde pasara la corriente y lo conectamos
-* ![image](https://user-images.githubusercontent.com/116832991/205127548-b37fce02-7d56-4e3f-b5c1-6969701989d0.png)
-
+* ![image](https://user-images.githubusercontent.com/116832991/205128379-34e2055b-782f-470f-a099-d9a1b9428e2e.png)
 * •	Conectamos nuestras resistencias de 510 Ω en la pata colectora del transistor pasando el canal central de la placa de pruebas y la conectamos
 * ![image](https://user-images.githubusercontent.com/116832991/205127583-7db54431-8b3e-47f5-a64c-91d7e9e4754f.png)
-
 * •	Procedemos a conectar las luces led con el ánodo conectado en la terminal positiva de corriente y el cátodo haciendo conexión en la parte del resistor que estaba suelta, estas resistencias cumplen la función de regular la corriente que pasa hacia la luz led para que no se queme
 * ![image](https://user-images.githubusercontent.com/116832991/205127650-e4b8a783-b3ba-4e8e-8043-1baacdd00b16.png)
-
 *  •	La resistencia de 1 kΩ la conectamos desde la terminal positiva por donde pasa la corriente hacia el nodo por donde circula la corriente para las resistencias de 510 Ω
 *  ![image](https://user-images.githubusercontent.com/116832991/205127756-19b48af7-c124-4519-9032-b1aaffd5397e.png)
-
 * •	Realizamos la conexión de jumpers con el primero conectándolo en donde quedo la resistencia de 1 kΩ, el segundo jumper lo conectamos en la pata base del primer transistor, el tercer jumper de igual manera conectándolo en la pata base del segundo transistor y el ultimo jumper conectándolo igual en la pata base del ultimo transistor
 * ![image](https://user-images.githubusercontent.com/116832991/205127786-89900e48-21dc-46d4-90b1-8a335509293a.png)
-
 * •	Conectamos nuestra fuente de voltaje al circuito en este caso la batería de 9 V
 *  •	Procedemos a verificar si las conexiones están realizadas de una manera correcta introduciendo los jumpers sueltos a un vaso con agua y observar si las 3 luces led se encienden correctamente 
 *  ![image](https://user-images.githubusercontent.com/116832991/205127827-23f1e636-c45c-4de9-9bef-0de7d45742d6.png)
-
 * •	Por último, arreglamos nuestros jumpers a la altura deseada y el circuito armado estará correctamente realizado verificando que a medida que el agua los va tocando las luces led se van encendiendo
 * ![image](https://user-images.githubusercontent.com/116832991/205127898-8ce7cd10-5e42-49d7-8c3b-93c3e86511f4.png)
-
 
 # CIRCUITO ARMADO
 ![WhatsApp Image 2022-11-30 at 11 48 40 PM](https://user-images.githubusercontent.com/116832991/205121868-4188f7f6-8d5a-407f-a74f-bcd56cf89c14.jpeg)
