@@ -20,7 +20,7 @@ Las resistencias en este caso son parte fundamental del circuito eléctrico ya q
 •	3 luces led 
 •	Cables macho macho o jumpers
 •	Pila de 9 V
-Procedimiento 
+#PROCEDIMIENTO
 •	Conectamos a la placa de pruebas los 3 transistores NPN 2N3904 con la parte plana del transistor observando hacia nosotros
 •	Realizamos conexiones con los cables macho macho o jumpers en la pata emisora del transistor llevándolos hacia la terminal negativa por donde pasara la corriente y lo conectamos 
 •	Conectamos nuestras resistencias de 510 Ω en la pata colectora del transistor pasando el canal central de la placa de pruebas y la conectamos 
@@ -30,9 +30,9 @@ Procedimiento
 •	Conectamos nuestra fuente de voltaje al circuito en este caso la batería de 9 V
 •	Procedemos a verificar si las conexiones están realizadas de una manera correcta introduciendo los jumpers sueltos a un vaso con agua y observar si las 3 luces led se encienden correctamente 
 •	Por último, arreglamos nuestros jumpers a la altura deseada y el circuito armado estará correctamente realizado verificando que a medida que el agua los va tocando las luces led se van encendiendo
-Circuito Armado 
-Video de youtube 
-Conclusiones
+# CIRCUITO ARMADO
+# VIDEO DE YOTUBE 
+# CONCLUISIONES 
 •	Como se ah podido observar en el circuito el transistor se encarga de recibir, transferir y emitir corriente negativa hacia la luz led 
 •	De este modo se puede entender que la resistencia de 1 kΩ se encarga de proteger el circuito de la corriente positiva para que este no se sobrecargue y mediante el uso del jumper cargamos el vaso de agua con corriente positiva 
 •	Para finalizar gracias a la base del transistor la cual se encarga de transferir la corriente negativa que le llega mediante la pata receptora podemos cargar negativamente el agua con los jumpers y gracias a eso el circuito funciona correctamente   
