@@ -42,13 +42,15 @@ Las resistencias en este caso son parte fundamental del circuito eléctrico ya q
 *  ![image](https://user-images.githubusercontent.com/116832991/205127827-23f1e636-c45c-4de9-9bef-0de7d45742d6.png)
 * •	Por último, arreglamos nuestros jumpers a la altura deseada y el circuito armado estará correctamente realizado verificando que a medida que el agua los va tocando las luces led se van encendiendo
 * ![image](https://user-images.githubusercontent.com/116832991/205127898-8ce7cd10-5e42-49d7-8c3b-93c3e86511f4.png)
+# DIAGRAMA CIRCUITAL
+![WhatsApp Image 2022-12-01 at 1 26 35 PM](https://user-images.githubusercontent.com/116832991/205194061-9df66e28-8b7e-4f82-b638-3bdbeef3d5f7.jpeg)
 
-# CIRCUITO ARMADO
+#CIRCUITO ARMADO
 ![WhatsApp Image 2022-11-30 at 11 48 40 PM](https://user-images.githubusercontent.com/116832991/205121868-4188f7f6-8d5a-407f-a74f-bcd56cf89c14.jpeg)
 ![WhatsApp Image 2022-11-30 at 11 48 40 PM (2)](https://user-images.githubusercontent.com/116832991/205122127-011ee8f7-550a-4de7-bf35-abdd7304804e.jpeg)
 
 # VIDE EN YOUTUBE
-# 
+* https://www.youtube.com/watch?v=YbOOiUMdjYI
 # CONCLUISIONES 
 * •	Como se ah podido observar en el circuito el transistor se encarga de recibir, transferir y emitir corriente negativa hacia la luz led 
 * •	De este modo se puede entender que la resistencia de 1 kΩ se encarga de proteger el circuito de la corriente positiva para que este no se sobrecargue y mediante el uso del jumper cargamos el vaso de agua con corriente positiva 
